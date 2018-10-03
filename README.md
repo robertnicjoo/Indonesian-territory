@@ -1,4 +1,4 @@
-# Indonesian erritory
+# Indonesian territory
 Full list of Indonesian provinces and their cities
 
 > Laravel database seeder (works on all versions)

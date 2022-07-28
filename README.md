@@ -44,6 +44,6 @@ php artisan migrate:refresh db:seed
 
 ---
 
-Website [TJD STUDIO](https://tjd-studio.com)
+Website [CV. IRANDO](https://irando.co.id)
 
 Twitter [Robert Nicjoo](https://twitter.com/robertnicjoo)
